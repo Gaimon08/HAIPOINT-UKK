@@ -1,5 +1,5 @@
 # HAIPOS
-## Aplikasi Point Of Sale Ci4
+## Aplikasi Point Of Sale Codeigniter 4
 HAIpos adalah solusi Point of Sale yang inovatif dan efisien untuk membantu bisnis Anda dalam mengelola transaksi dengan lebih mudah dan cepat. Dibangun dengan teknologi terkini, HAIpos menyediakan berbagai fitur yang dirancang untuk meningkatkan pengalaman bertransaksi Anda.
 
 ## What is CodeIgniter?
