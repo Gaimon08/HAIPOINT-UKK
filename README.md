@@ -18,7 +18,7 @@ Aplikasi ini dirancang sebagai bagian dari Uji Kompetensi Keahlian di SMKN 2 Kun
 ## Installation
 
 ```sh
-git clone https://github.com/Gaimon08/HAIPOINT-UKK.git)](https://github.com/Gaimon08/HAIPOINT-UKK.git
+git clone https://github.com/Gaimon08/HAIPOINT-UKK.git)
 ```  
 
 Copy `env` to `.env` and tailor for your app, specifically the baseURL
