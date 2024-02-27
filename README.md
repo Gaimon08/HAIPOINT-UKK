@@ -1,7 +1,7 @@
 # Aplikasi Point Of Sale Ci4
 [![N|Solid](https://cldup.com/dTxpPi9lDf.thumb.png)](https://nodesource.com/products/nsolid)
 
-[![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://travis-ci.org/joemccann/dillinger)
+[![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)]([https://travis-ci.org/joemccann/dillinger](https://haikaldiscoveries.my.id/#hero))
 
 HAIpos adalah solusi Point of Sale yang inovatif dan efisien untuk membantu bisnis Anda dalam mengelola transaksi dengan lebih mudah dan cepat. Dibangun dengan teknologi terkini, HAIpos menyediakan berbagai fitur yang dirancang untuk meningkatkan pengalaman bertransaksi Anda.
 
