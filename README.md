@@ -27,9 +27,9 @@ and any database settings.
 Impor berkas database starter.sql ke server database web Anda dan jalankan aplikasi dengan menggunakan server pengembangan lokal 'php spark serve'. 
 Gunakan informasi berikut untuk masuk:
 
-Username: superadmin
-Email: superadmin@gmail.com
-Password: demoapp1
+- Username: superadmin
+- Email: superadmin@gmail.com
+- Password: demoapp1
 
 ## What is CodeIgniter?
 
