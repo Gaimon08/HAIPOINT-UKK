@@ -1,5 +1,9 @@
 # Aplikasi Point Of Sale Ci4
-[![N|Solid]([https://cldup.com/dTxpPi9lDf.thumb.png](https://www.google.com/search?q=monkey+d+luffy+egghead&tbm=isch&ved=2ahUKEwiohdKo8MuEAxXPk2MGHQA1DMQQ2-cCegQIABAA&oq=monkey+d+luffy+egghead&gs_lp=EgNpbWciFm1vbmtleSBkIGx1ZmZ5IGVnZ2hlYWQyBxAAGIAEGBhInS5QlwVYxSxwAngAkAEAmAHlAaABjQiqAQU5LjEuMbgBA8gBAPgBAYoCC2d3cy13aXotaW1nwgIEECMYJ8ICCBAAGIAEGLEDwgIFEAAYgATCAhAQABiABBiKBRhDGLEDGIMBwgIKEAAYgAQYigUYQ8ICBBAAGB6IBgE&sclient=img&ei=WAXeZaj5Kc-njuMPgOqwoAw&bih=651&biw=1366&rlz=1C1ONGR_enID1012ID1012#imgrc=8CY9Xi4mqxtJRM))](https://nodesource.com/products/nsolid)
+[![N|Solid](https://cldup.com/dTxpPi9lDf.thumb.png)](https://nodesource.com/products/nsolid)
+
+[![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://travis-ci.org/joemccann/dillinger)
+
+HAIpos adalah solusi Point of Sale yang inovatif dan efisien untuk membantu bisnis Anda dalam mengelola transaksi dengan lebih mudah dan cepat. Dibangun dengan teknologi terkini, HAIpos menyediakan berbagai fitur yang dirancang untuk meningkatkan pengalaman bertransaksi Anda.
 
 ## What is CodeIgniter?
 
