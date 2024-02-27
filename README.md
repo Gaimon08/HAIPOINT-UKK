@@ -1,4 +1,6 @@
-# Aplikasi Point Of Sale Ci4
+# HAIpos
+## Aplikasi Point Of Sale Ci4
+[![N|Solid](https://cldup.com/dTxpPi9lDf.thumb.png)](https://nodesource.com/products/nsolid)
 
 ## What is CodeIgniter?
 
