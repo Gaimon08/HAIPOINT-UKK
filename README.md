@@ -3,6 +3,9 @@
 ## _Aplikasi Point Of Sale Codeigniter 4_
 HAIPOINT adalah solusi Point of Sale yang inovatif dan efisien untuk membantu bisnis Anda dalam mengelola transaksi dengan lebih mudah dan cepat. Dibangun dengan teknologi terkini, HAIPOINT menyediakan berbagai fitur yang dirancang untuk meningkatkan pengalaman bertransaksi Anda.
 
+Aplikasi ini dirancang sebagai bagian dari Uji Kompetensi Keahlian di SMKN 2 Kuningan.
+[Haikal Jibran Al-Ghiffarry](https://haikaldiscoveries.my.id/#hero) XII RPL1.
+
 ## Features
 
 - Kasir Cepat: Proses transaksi dengan cepat dan efisien menggunakan antarmuka kasir yang sederhana.
@@ -13,7 +16,7 @@ HAIPOINT adalah solusi Point of Sale yang inovatif dan efisien untuk membantu bi
 - Laporan Real-time: Pantau kinerja bisnis Anda dengan laporan real-time yang komprehensif
 
   
-Aplikasi ini dirancang sebagai bagian dari Uji Kompetensi Keahlian di SMKN 2 Kuningan. Tulisan ini disusun oleh [Haikal Jibran Al-Ghiffarry](https://haikaldiscoveries.my.id/#hero) dan dapat ditemukan di [situs Markdown][df1].
+
 
   
 ## What is CodeIgniter?
