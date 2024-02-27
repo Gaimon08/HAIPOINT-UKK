@@ -1,6 +1,5 @@
-# HAIpos
-## Aplikasi Point Of Sale Ci4
-[![N|Solid](https://cldup.com/dTxpPi9lDf.thumb.png)](https://nodesource.com/products/nsolid)
+# Aplikasi Point Of Sale Ci4
+[![N|Solid]([https://cldup.com/dTxpPi9lDf.thumb.png](https://www.google.com/search?q=monkey+d+luffy+egghead&tbm=isch&ved=2ahUKEwiohdKo8MuEAxXPk2MGHQA1DMQQ2-cCegQIABAA&oq=monkey+d+luffy+egghead&gs_lp=EgNpbWciFm1vbmtleSBkIGx1ZmZ5IGVnZ2hlYWQyBxAAGIAEGBhInS5QlwVYxSxwAngAkAEAmAHlAaABjQiqAQU5LjEuMbgBA8gBAPgBAYoCC2d3cy13aXotaW1nwgIEECMYJ8ICCBAAGIAEGLEDwgIFEAAYgATCAhAQABiABBiKBRhDGLEDGIMBwgIKEAAYgAQYigUYQ8ICBBAAGB6IBgE&sclient=img&ei=WAXeZaj5Kc-njuMPgOqwoAw&bih=651&biw=1366&rlz=1C1ONGR_enID1012ID1012#imgrc=8CY9Xi4mqxtJRM))](https://nodesource.com/products/nsolid)
 
 ## What is CodeIgniter?
 
