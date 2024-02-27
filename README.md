@@ -1,4 +1,4 @@
-# CodeIgniter 4 Application Starter
+# Aplikasi Point Of Sale Ci4
 
 ## What is CodeIgniter?
 
