@@ -1,7 +1,18 @@
-# HAIPOS
+# HAIPOINT
+
 ## Aplikasi Point Of Sale Codeigniter 4
 HAIpos adalah solusi Point of Sale yang inovatif dan efisien untuk membantu bisnis Anda dalam mengelola transaksi dengan lebih mudah dan cepat. Dibangun dengan teknologi terkini, HAIpos menyediakan berbagai fitur yang dirancang untuk meningkatkan pengalaman bertransaksi Anda.
 
+## Features
+
+- Kasir Cepat: Proses transaksi dengan cepat dan efisien menggunakan antarmuka kasir yang sederhana.
+- Scanner Barcode: Pindai produk dengan mudah menggunakan scanner barcode terintegrasi.
+- Generate Barcode: Buat barcode produk secara otomatis untuk manajemen inventaris yang lebih efisien.
+- Cetak Struk: Cetak struk transaksi secara langsung untuk pelanggan Anda.
+- Print PDF: Cetak laporan transaksi dalam format PDF untuk dicetak atau disimpan.
+- Laporan Real-time: Pantau kinerja bisnis Anda dengan laporan real-time yang komprehensif
+
+  
 ## What is CodeIgniter?
 
 CodeIgniter is a PHP full-stack web framework that is light, fast, flexible and secure.
