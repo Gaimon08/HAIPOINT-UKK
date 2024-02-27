@@ -13,7 +13,7 @@ HAIPOINT adalah solusi Point of Sale yang inovatif dan efisien untuk membantu bi
 - Laporan Real-time: Pantau kinerja bisnis Anda dengan laporan real-time yang komprehensif
 
   
-Aplikasi ini dirancang sebagai bagian dari Uji Kompetensi Keahlian di SMKN 2 Kuningan. Tulisan ini disusun oleh [Breakdance](https://breakdance.github.io/breakdance/) dan dapat ditemukan di [situs Markdown][df1].
+Aplikasi ini dirancang sebagai bagian dari Uji Kompetensi Keahlian di SMKN 2 Kuningan. Tulisan ini disusun oleh [Haikal Jibran Al-Ghiffarry](https://haikaldiscoveries.my.id/#hero) dan dapat ditemukan di [situs Markdown][df1].
 
   
 ## What is CodeIgniter?
